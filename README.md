@@ -13,7 +13,7 @@ A desktop-based Library Management System built using Java Swing framework in Ne
 ## Technologies Used
 - Java Swing for GUI
 - JDBC for database connectivity
-- MySQL/MariaDB as database backend
+- MySQL as database backend
 - NetBeans IDE for development
 
 ## Installation
