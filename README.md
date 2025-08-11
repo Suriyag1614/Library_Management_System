@@ -20,7 +20,7 @@ A desktop-based Library Management System built using Java Swing framework in Ne
 1. **Prerequisites**:
    - Java JDK 8 or later
    - NetBeans IDE 8.2 or later
-   - MySQL/MariaDB server
+   - MySQL server
 
 2. **Setup**:
    - Clone or download the project
